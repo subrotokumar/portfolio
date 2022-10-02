@@ -6,6 +6,10 @@
   list-style: none;
 }
 
+.round-corner{
+  border-radius: 20px;
+}
+
 :root {
   --color-primary: #191d2b;
   --color-secondary: #27AE60;
